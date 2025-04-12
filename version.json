@@ -1,9 +1,9 @@
 {
   "ravi": {
-    "allowed_versions": ["v1"]
+    "allowed_versions": ["v1" , "v2"]
   },
   "vaibhavi": {
-    "allowed_versions": ["v1"]
+    "allowed_versions": ["v1" , "v2"]
   },
   "amit": {
     "allowed_versions": ["v1"]
