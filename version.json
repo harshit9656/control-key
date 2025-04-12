@@ -4,5 +4,29 @@
   },
   "vaibhavi": {
     "allowed_versions": ["v1"]
+  },
+  "amit": {
+    "allowed_versions": ["v1"]
+  },
+  "priya": {
+    "allowed_versions": ["v1"]
+  },
+  "rohan": {
+    "allowed_versions": ["v1"]
+  },
+  "sneha": {
+    "allowed_versions": ["v1"]
+  },
+  "anil": {
+    "allowed_versions": ["v1"]
+  },
+  "megha": {
+    "allowed_versions": ["v1"]
+  },
+  "karan": {
+    "allowed_versions": ["v1"]
+  },
+  "divya": {
+    "allowed_versions": ["v1"]
   }
 }
