@@ -1,0 +1,8 @@
+{
+  "ravi": {
+    "allowed_versions": ["v1"]
+  },
+  "vaibhavi": {
+    "allowed_versions": ["v1"]
+  }
+}
