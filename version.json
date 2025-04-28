@@ -1,9 +1,9 @@
 {
   "ravi": {
-    "allowed_versions": ["v0" , "v5" , "v99"]
+    "allowed_versions": ["v0" , "v6" , "v99"]
   },
   "vaibhavi": {
-    "allowed_versions": ["v0" , "v5"]
+    "allowed_versions": ["v0" , "v6"]
   },
   "krunal": {
     "allowed_versions": ["v1"]
