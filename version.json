@@ -3,7 +3,7 @@
     "allowed_versions": ["v0" , "v0" , "v0"]
   },
   "vaibhavi": {
-    "allowed_versions": ["v0" , "v12"]
+    "allowed_versions": ["v" , "v"]
   },
   "krunal": {
     "allowed_versions": ["v0"]
