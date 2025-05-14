@@ -6,7 +6,7 @@
     "allowed_versions": ["v" , "v"]
   },
   "krunal": {
-    "allowed_versions": ["v0"]
+    "allowed_versions": ["v7"]
   },
   "khusbu": {
     "allowed_versions": ["v1"]
