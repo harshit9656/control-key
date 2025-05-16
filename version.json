@@ -1,12 +1,12 @@
 {
   "ravi": {
-    "allowed_versions": ["v0" , "v" , "v12"]
+    "allowed_versions": ["v0" , "v" , "v"]
   },
   "vaibhavi": {
     "allowed_versions": ["v" , "v"]
   },
   "krunal": {
-    "allowed_versions": ["v7"]
+    "allowed_versions": ["v"]
   },
   "khusbu": {
     "allowed_versions": ["v1"]
