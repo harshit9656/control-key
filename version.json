@@ -15,7 +15,7 @@
     "allowed_versions": ["v1"]
   },
   "Rudra": {
-    "allowed_versions": ["v1"]
+    "allowed_versions": ["v2"]
   },
   "anil": {
     "allowed_versions": ["v1"]
