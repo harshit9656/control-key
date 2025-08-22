@@ -27,6 +27,6 @@
     "allowed_versions": ["v1"]
   },
   "divya": {
-    "allowed_versions": ["v1"]
+    "allowed_versions": ["v2"]
   }
 }
