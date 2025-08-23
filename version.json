@@ -12,7 +12,7 @@
     "allowed_versions": ["v1"]
   },
   "Harsh": {
-    "allowed_versions": ["v3"]
+    "allowed_versions": ["v1"]
   },
   "Rudra": {
     "allowed_versions": ["v1"]
