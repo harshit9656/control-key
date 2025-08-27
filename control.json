@@ -2,20 +2,21 @@
   "Harsh": {
     "status": "active",
     "version": "V8",
-    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+    "hardware_fingerprint": "AUTO_GENERATED_HASH",
+    "device_name": "Harsh_PC_Main",
+    "max_sessions": 1,
+    "created_date": "2025-01-27",
+    "last_access": "2025-01-27T10:30:00Z"
   }
 }
 {
   "Hellster": {
     "status": "active",
-    "version": "V1",
-    "hardware_fingerprint": "CLIENT_SE_MILEGA"
-  }
-}
-{
-  "DarkNight": {
-    "status": "active",
-    "version": "V1",
-    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+    "version": "V9",
+    "hardware_fingerprint": "AUTO_GENERATED_HASH",
+    "device_name": "Hellster_PC_Main",
+    "max_sessions": 1,
+    "created_date": "2025-01-27",
+    "last_access": "2025-01-27T10:30:00Z"
   }
 }
