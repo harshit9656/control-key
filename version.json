@@ -1,6 +1,6 @@
 {
   "ravi": {
-    "allowed_versions": ["v" , "v" , "v"]
+    "allowed_versions": ["v2" , "v" , "v"]
   },
   "vaibhavi": {
     "allowed_versions": ["v" , "v"]
