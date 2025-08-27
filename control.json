@@ -2,23 +2,20 @@
   "Harsh": {
     "status": "active",
     "version": "V8",
-    "mac_address": "2C-7B-A0-97-7E-26",
-    "last_check": "2025-01-27"
-  }
-}
-{
-  "Dark": {
-    "status": "active",
-    "version": "V1",
-    "mac_address": "2C-7B-A0-97-7E-26",
-    "last_check": "2025-01-27"
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
   }
 }
 {
   "Hellster": {
     "status": "active",
     "version": "V1",
-    "mac_address": "2C-7B-A0-97-7E-26",
-    "last_check": "2025-01-27"
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+  }
+}
+{
+  "DarkNight": {
+    "status": "active",
+    "version": "V1",
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
   }
 }
