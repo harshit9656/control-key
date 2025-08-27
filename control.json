@@ -1,22 +1,28 @@
 {
-  "harsh": {
-    "status": "active",
-    "version": "V8",
-    "hardware_fingerprint": "6a77c071a631dffce4167504d8cb84efc097ec0372f72faf9b34e8049fa25fda"
-  },
-  "john": {
-    "status": "active", 
-    "version": "V8",
-    "hardware_fingerprint": "CLIENT_SE_MILEGA"
-  },
-  "ravi": {
-    "status": "active",
-    "version": "V8", 
-    "hardware_fingerprint": "CLIENT_SE_MILEGA"
-  },
-  "mike": {
-    "status": "inactive",
-    "version": "V7",
-    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+  "clients": [
+    {
+      "name": "Harshit Patel",
+      "version": "v1",
+      "fingerprint": "418f24e2c8fa40c2e1d5a6b7c8d9e0f1234567890abcdef123456789abcdef12",
+      "authorized": true
+    }
+  ],
+  "settings": {
+    "checkInterval": 20,
+    "strictMode": true
+  }
+}
+{
+  "clients": [
+    {
+      "name": "Harshit",
+      "version": "v2",
+      "fingerprint": "418f24e2c8fa40c2e1d5a6b7c8d9e0f1234567890abcdef123456789abcdef12",
+      "authorized": true
+    }
+  ],
+  "settings": {
+    "checkInterval": 20,
+    "strictMode": true
   }
 }
