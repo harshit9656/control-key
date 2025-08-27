@@ -1,22 +1,22 @@
 {
-  "Harsh": {
+  "harsh": {
     "status": "active",
     "version": "V8",
-    "hardware_fingerprint": "AUTO_GENERATED_HASH",
-    "device_name": "Harsh_PC_Main",
-    "max_sessions": 1,
-    "created_date": "2025-01-27",
-    "last_access": "2025-01-27T10:30:00Z"
-  }
-}
-{
-  "Hellster": {
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+  },
+  "john": {
+    "status": "active", 
+    "version": "V8",
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+  },
+  "ravi": {
     "status": "active",
-    "version": "V9",
-    "hardware_fingerprint": "AUTO_GENERATED_HASH",
-    "device_name": "Hellster_PC_Main",
-    "max_sessions": 1,
-    "created_date": "2025-01-27",
-    "last_access": "2025-01-27T10:30:00Z"
+    "version": "V8", 
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
+  },
+  "mike": {
+    "status": "inactive",
+    "version": "V7",
+    "hardware_fingerprint": "CLIENT_SE_MILEGA"
   }
 }
