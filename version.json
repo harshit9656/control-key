@@ -1,32 +1,32 @@
 {
-  "ravi": {
-    "allowed_versions": ["v1" , "v" , "v"]
-  },
-  "vaibhavi": {
-    "allowed_versions": ["v" , "v"]
-  },
-  "krunal": {
-    "allowed_versions": ["v"]
-  },
-  "khusbu": {
-    "allowed_versions": ["v1"]
-  },
   "Harsh": {
-    "allowed_versions": ["v1"]
-  },
-  "Rudra": {
-    "allowed_versions": ["v1"]
-  },
-  "anil": {
-    "allowed_versions": ["v"]
-  },
-  "megha": {
-    "allowed_versions": ["v1"]
-  },
-  "karan": {
-    "allowed_versions": ["v1"]
-  },
-  "divya": {
-    "allowed_versions": ["v1"]
+    "allowed_versions": ["v1"],
+    "status": "active",
+    "description": "Amazon Job Monitor Chrome Extension",
+    "last_updated": "2025-01-28"
+  }
+}
+{
+  "Harsh": {
+    "allowed_versions": ["v1"],
+    "status": "active",
+    "description": "Amazon Job Monitor Chrome Extension",
+    "last_updated": "2025-01-28"
+  }
+}
+{
+  "Hell": {
+    "allowed_versions": ["v1"],
+    "status": "active",
+    "description": "Amazon Job Monitor Chrome Extension",
+    "last_updated": "2025-01-28"
+  }
+}
+{
+  "Hellfire": {
+    "allowed_versions": ["v1"],
+    "status": "active",
+    "description": "Amazon Job Monitor Chrome Extension",
+    "last_updated": "2025-01-28"
   }
 }
