@@ -1,28 +1,27 @@
 {
-  "clients": [
-    {
-      "name": "Harshit Patel",
-      "version": "v1",
-      "fingerprint": "34028392ae817f5aead9da2afa831c2524e7d8d56cc5d9691b82753a7bf75b21",
-      "authorized": true
-    }
-  ],
   "settings": {
     "checkInterval": 20,
-    "strictMode": true
-  }
-}
-{
+    "strictMode": true,
+    "version": "1.0.1"
+  },
   "clients": [
     {
-      "name": "Harshit",
-      "version": "v2",
-      "fingerprint": "418f24e2c8fa40c2e1d5a6b7c8d9e0f1234567890abcdef123456789abcdef12",
-      "authorized": true
+      "name": "Harshit's Device",
+      "fingerprint": "43b3af9c094b9be9bcf001ea091495552dd540c78dd9f262a57190ebe9448447",
+      "authorized": true,
+      "version": "1.0.1",
+      "addedDate": "2025-01-28",
+      "lastActive": "2025-01-28",
+      "notes": "Main development device"
+    },
+    {
+      "name": "Test Device 2",
+      "fingerprint": "another_hardware_fingerprint_here",
+      "authorized": false,
+      "version": "1.0.1",
+      "addedDate": "2025-01-28",
+      "lastActive": "2025-01-28",
+      "notes": "Pending approval"
     }
-  ],
-  "settings": {
-    "checkInterval": 20,
-    "strictMode": true
-  }
+  ]
 }
