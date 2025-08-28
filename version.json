@@ -1,5 +1,4 @@
 {
-  "clients": ["ravi"],
-  "versions": ["v1"],
-  "enabled": true
+  "CLIENT_ID": "ravi",
+  "VERSION_ID": "v1"
 }
