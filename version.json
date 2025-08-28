@@ -1,5 +1,5 @@
 {
   "ravi": {
-    "allowed_versions": ["v2"]
+    "allowed_versions": ["v1"]
   }
 }
