@@ -1,5 +1,5 @@
 {
   "clients": ["ravi"],
-  "versions": ["v2"],
+  "versions": ["v1"],
   "enabled": true
 }
