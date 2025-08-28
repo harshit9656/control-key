@@ -1,17 +1,14 @@
 {
   "ravi": {
     "allowed_versions": ["v1", "v2"],
-    "status": "active",
-    "description": "Ravi's client access"
+    "status": "active", 
   },
   "harsh": {
     "allowed_versions": ["v1"],
     "status": "active", 
-    "description": "Another client access"
   },
   "client3": {
     "allowed_versions": ["v2", "v3"],
     "status": "inactive",
-    "description": "Disabled client"
   }
 }
