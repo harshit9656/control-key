@@ -1,14 +1,5 @@
 {
   "ravi": {
-    "allowed_versions": ["v1"],
-    "status": "active", 
-  },
-  "harsh": {
-    "allowed_versions": ["v1"],
-    "status": "active", 
-  },
-  "client3": {
-    "allowed_versions": ["v2", "v3"],
-    "status": "inactive",
+    "allowed_versions": ["v1"]
   }
 }
