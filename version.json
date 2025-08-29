@@ -1,6 +1,8 @@
 {
-  "HP_INTERCEPTOR_2025": {
-    "version": "v2.1.0",
-    "authorized": true
+  "ravi": {
+    "allowed_versions": ["v1"],
+    "status": "active",
+    "last_updated": "2025-08-29T16:22:00Z",
+    "description": "Authorized client for Hp-TheFinalArgument-1998 extension"
   }
 }
