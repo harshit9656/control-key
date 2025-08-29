@@ -1,9 +1,5 @@
 {
-    "ravi": {
-        "v1": {
-            "status": "unlocked",
-            "message": "Extension active and operational",
-            "lastUpdate": "2025-01-29T10:30:00Z"
-        }
-    }
+  "ravi": {
+    "allowed_versions": ["v1"]
+  }
 }
