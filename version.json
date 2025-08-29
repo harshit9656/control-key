@@ -1,6 +1,6 @@
 {
   "ravi": {
-    "allowed_versions": ["v1", "v1.1", "v1.2"],
+    "allowed_versions": ["v2"],
     "status": "active",
     "last_updated": "2024-08-29"
   },
