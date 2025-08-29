@@ -1,4 +1,6 @@
 {
-  "harsh": {
-    "client_version": ["v1"]
+  "HP_INTERCEPTOR_2024": {
+    "version": "v2.1.0",
+    "authorized": true
   }
+}
