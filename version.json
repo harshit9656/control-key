@@ -1,8 +1,9 @@
 {
     "ravi": {
         "v1": {
-            "status": "locked",  // instantly blocks
-            "message": "Maintenance mode - contact admin"
+            "status": "unlocked",
+            "message": "Extension active and operational",
+            "lastUpdate": "2025-01-29T10:30:00Z"
         }
     }
 }
