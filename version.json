@@ -1,12 +1,8 @@
 {
-  "ravi": {
-    "allowed_versions": ["v2"],
-    "status": "active",
-    "last_updated": "2024-08-29"
-  },
-  "client2": {
-    "allowed_versions": ["v1"],
-    "status": "active", 
-    "last_updated": "2024-08-29"
-  }
+    "ravi": {
+        "v1": {
+            "status": "locked",  // instantly blocks
+            "message": "Maintenance mode - contact admin"
+        }
+    }
 }
