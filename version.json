@@ -1,7 +1,13 @@
 {
-  "ravi": {
-    "allowed_versions": ["v2"],
-    "status": "active",
-    "last_updated": "2025-08-29T16:22:00Z"
-  }
+  "authorized_clients": [
+    {
+      "name": "ravi",
+      "version": "v2", 
+      "authorized": true,
+      "status": "active",
+      "note": "Amazon Schedule Monitor Extension"
+    }
+  ],
+  "last_updated": "2025-08-31T11:48:00.000Z",
+  "repository": "harshit9656/control-key"
 }
