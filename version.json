@@ -1,11 +1,8 @@
 {
   "minimum_version": "1.0.1",
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.1", 
   "security_enabled": true,
   "fingerprinting_enabled": true,
   "security_level": "medium",
-  "emergency_disable": false,
-  "allowed_domains": ["hiring.amazon.com", "hiring.amazon.ca"],
-  "blocked_fingerprints": [],
-  "security_message": "Extension authorized"
+  "emergency_disable": false
 }
