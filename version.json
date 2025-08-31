@@ -1,8 +1,8 @@
 {
   "minimum_version": "1.0.1",
   "latest_version": "1.0.1", 
-  "security_enabled": true,
-  "fingerprinting_enabled": true,
+  "security_enabled": false,
+  "fingerprinting_enabled": false,
   "security_level": "medium",
   "emergency_disable": false
 }
