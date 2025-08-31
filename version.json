@@ -2,7 +2,7 @@
   "authorized_clients": [
     {
       "name": "ravi",
-      "version": "v1", 
+      "version": "v2", 
       "authorized": true,
       "status": "active",
       "note": "Amazon Schedule Monitor Extension"
