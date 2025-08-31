@@ -1,13 +1,1 @@
-{
-  "authorized_clients": [
-    {
-      "name": "ravi",
-      "version": "v1", 
-      "authorized": true,
-      "status": "active",
-      "note": "Amazon Schedule Monitor Extension"
-    }
-  ],
-  "last_updated": "2025-08-31T11:48:00.000Z",
-  "repository": "harshit9656/control-key"
-}
+
