@@ -1,13 +1,5 @@
 {
   "ravi": {
-    "allowed_versions": ["v1"],
-    "description": "Authorized client for Chrome extension",
-    "last_updated": "2025-09-01",
-    "permissions": [
-      "schedule_monitoring",
-      "telegram_integration", 
-      "screenshot_capture",
-      "button_automation"
-    ]
+    "allowed_versions": ["v1"]
   }
 }
