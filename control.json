@@ -1,17 +1,1 @@
-{
-  "status": "active",
-  "version": "1.0.2", 
-  "message": "Extension is active and monitoring enabled",
-  "timestamp": "2024-09-01T00:00:00Z",
-  "features": {
-    "scheduleMonitoring": true,
-    "buttonClicker": true,
-    "screenshotHandler": true,
-    "telegramIntegration": true
-  },
-  "commands": {
-    "forceStop": false,
-    "maintenanceMode": false
-  },
-  "notes": "Remote control file for extension. Change status to 'blocked' to disable extension remotely."
-}
+
